@@ -24,6 +24,5 @@ phases:
 # used only for building and testing.
 artifacts:
   files:
-    files:
-    - '**/*'
-    base-directory: 'dist'
+  - '**/*'
+  base-directory: 'dist'
