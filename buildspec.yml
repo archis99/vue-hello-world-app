@@ -25,3 +25,5 @@ phases:
 artifacts:
   files:
     - dist/*
+    - dist/css/*
+    - dist/js/*
